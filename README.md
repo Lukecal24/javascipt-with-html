@@ -1,1 +1,1 @@
-# javascipt-with-html
+# javascript-with-html
